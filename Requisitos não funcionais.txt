@@ -1,0 +1,29 @@
+Requisitos funcionais
+
+RF001 - o sistema deve permitir cadastrar o estoque
+
+RF002 - o sistema deve deixar consultar o perfil do cliente
+
+RF003 - o sistema deve deixar consultar o balancete das vendas 
+
+RF004 - o sistema dar baixa nos produtos vendidos
+
+RF005 - o sistema deve possibilitar a emissão da nota fiscal
+
+RF006 - o sistema deve deixar consultar a disponibilidade de produtos
+
+RF007 - o sistema deve ter login
+
+RF008 - o sistema devera deixar o usuario cadastrar clientes 
+
+
+Requisitos não funcionais
+
+
+RNF001 - o sistema devera usar oracle/sql
+
+RNF002 - o sistema deve ser desenvolvido em java
+
+RNF003 - o sistema deve funcionar em Windows
+
+RNF004 - o sistema devera abrir em 20 segundos no máximo
